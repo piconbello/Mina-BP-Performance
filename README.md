@@ -1,5 +1,3 @@
-#Piconbello Mina Performance Data
-
 Intro
 =====
 
