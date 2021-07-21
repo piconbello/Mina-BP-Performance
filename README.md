@@ -1,7 +1,4 @@
-# Mina-bp-performance
- 
-Piconbello Mina Performance Data
----------------------------------
+#Piconbello Mina Performance Data
 
 Intro
 =====
