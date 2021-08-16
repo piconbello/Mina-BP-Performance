@@ -18,7 +18,7 @@ producing local slots: [59, 130, 236, 345, 528, 972, 980, 1013, 1032, 1081, 1195
 Performance 
 ===========
 
-+-------------+------------------+--------------+--------------------+
+
 | Global Slot | Canonical Height | Block Height | # Blocks at Height |
 | ----------- |:----------------:| ------------:|-------------------:|
 |    64319    |       True       |    45770     |         2          |
@@ -82,5 +82,5 @@ Performance
 |    71149    |       True       |    50447     |         2          |
 |    71274    |       True       |    50534     |         2          |
 |    71302    |       True       |    50547     |         2          |
-+-------------+------------------+--------------+--------------------+
+
 There were 61 slots and the producer produced at the canonical height for 61 slots and has a performance score of 100.00%.
