@@ -17,9 +17,9 @@ producing local slots: [62, 105, 164, 235, 273, 333, 369, 472, 656, 692, 728, 80
 Performance 
 ===========
 
-+-------------+------------------+--------------+--------------------+
+
 | Global Slot | Canonical Height | Block Height | # Blocks at Height |
-+-------------+------------------+--------------+--------------------+
+|:-----------:|:----------------:|:------------:|:------------------:|
 |    57182    |       True       |    40734     |         4          |
 |    57225    |       True       |    40766     |         7          |
 |    57284    |       True       |    40805     |         1          |
@@ -95,5 +95,5 @@ Performance
 |    63858    |       True       |    45462     |         2          |
 |    63957    |       True       |    45527     |         4          |
 |    64046    |       True       |    45593     |         12         |
-+-------------+------------------+--------------+--------------------+
+
 There were 75 slots and the producer produced at the canonical height for 74 slots and has a performance score of 98.67%. (Our nodes were live at the time of the slot. There is a possibility minaexplorer archive node didn't see the block since it was non-canonical. We are investigating these slots from our 2 month long logs. Even without nodes being in sync nodes create a block and that show up on explorer So we are not 100% we missed a block even under this data while it's the most reliable way to measure performance so we will keep publishing these results. With 3 of our nodes, a slot with any block production is nearly impossible. It's also impossible for us to know we missed a block earlier since there is no invalid block at that height.There were 75 slots and the producer produced at the canonical height for 74 slots and has a performance score of 98.67%. (Our nodes were live at the time of the slot. There is a possibility minaexplorer archive node didn't see the block since it was non-canonical. We are investigating these slots from our 2 month long logs. Even without nodes being in sync nodes create a block and that show up on explorer So we are not 100% we missed a block even under this data while it's the most reliable way to measure performance so we will keep publishing these results. With 3 of our nodes, a slot with any block production is nearly impossible. It's also impossible for us to know we missed a block earlier since there is no invalid block at that height.)
