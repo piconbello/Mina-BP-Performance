@@ -5,7 +5,7 @@ For epochs we will share the witness data. Following this repository https://git
 
 After end of the epochs we will update the performance data by running this script https://gist.github.com/garethtdavies/18ee98214bb3511bc2d59a9b8998ea17 which relies on minaexplorer. This is also can be verified by anyone since slot data can be gathered from witness data we provided.
 
-| Epoch | Locked Mina APY | Locked Mina APY |
+| Epoch | Locked Mina APY |Unlocked Mina APY|
 |:-----:|:---------------:|:---------------:|
 |0      |17.41%           |N/A              |
 |1      |11.33%           |N/A              |
