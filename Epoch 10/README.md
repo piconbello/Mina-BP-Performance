@@ -18,4 +18,81 @@ producing local slots: [38, 78, 99, 107, 323, 325, 485, 643, 722, 747, 764, 771,
 Performance 
 ===========
 
-Will updated after end of the epoch
+| Global Slot | Canonical Height | Block Height | # Blocks at Height |
+|:-----------:|:----------------:|:------------:|:------------------:|
+|    71438    |       True       |    50630     |         5          |
+|    71478    |       True       |    50653     |         3          |
+|    71499    |       True       |    50668     |         3          |
+|    71507    |      False       |              |         0          |
+|    71723    |       True       |    50803     |         4          |
+|    71725    |      False       |    50804     |         5          |
+|    71885    |       True       |    50906     |         2          |
+|    72043    |       True       |    51006     |         2          |
+|    72122    |       True       |    51061     |         4          |
+|    72147    |       True       |    51071     |         4          |
+|    72164    |       True       |    51082     |         3          |
+|    72171    |       True       |    51088     |         2          |
+|    72289    |       True       |    51160     |         3          |
+|    72823    |       True       |    51543     |         1          |
+|    72942    |       True       |    51629     |         1          |
+|    73215    |       True       |    51824     |         3          |
+|    73220    |       True       |    51828     |         1          |
+|    73228    |       True       |    51832     |         1          |
+|    73332    |       True       |    51892     |         3          |
+|    73333    |       True       |    51893     |         2          |
+|    73436    |       True       |    51965     |         1          |
+|    73576    |       True       |    52059     |         1          |
+|    73676    |       True       |    52119     |         3          |
+|    73788    |       True       |    52197     |         1          |
+|    73800    |       True       |    52206     |         4          |
+|    73809    |       True       |    52211     |         2          |
+|    73822    |       True       |    52218     |         6          |
+|    73861    |       True       |    52249     |         3          |
+|    73949    |       True       |    52311     |         1          |
+|    73955    |       True       |    52317     |         1          |
+|    74060    |       True       |    52394     |         3          |
+|    74216    |       True       |    52503     |         3          |
+|    74391    |       True       |    52625     |         2          |
+|    74418    |       True       |    52641     |         5          |
+|    74429    |      False       |              |         0          |
+|    74591    |       True       |    52758     |         1          |
+|    74594    |       True       |    52761     |         2          |
+|    74599    |       True       |    52765     |         2          |
+|    74955    |       True       |    53010     |         3          |
+|    74978    |      False       |    53027     |         3          |
+|    75110    |       True       |    53120     |         2          |
+|    75183    |       True       |    53170     |         3          |
+|    75197    |       True       |    53178     |         1          |
+|    75251    |       True       |    53212     |         1          |
+|    75267    |       True       |    53222     |         5          |
+|    75377    |       True       |    53295     |         4          |
+|    75439    |       True       |    53339     |         1          |
+|    75566    |       True       |    53442     |         3          |
+|    75642    |       True       |    53492     |         6          |
+|    75653    |       True       |    53499     |         1          |
+|    75664    |       True       |    53505     |         2          |
+|    75665    |       True       |    53506     |         2          |
+|    75666    |       True       |    53507     |         2          |
+|    75843    |       True       |    53627     |         7          |
+|    75849    |       True       |    53633     |         5          |
+|    75970    |       True       |    53728     |         1          |
+|    76279    |       True       |    53951     |         7          |
+|    76392    |       True       |    54037     |         3          |
+|    76490    |       True       |    54101     |         3          |
+|    76682    |       True       |    54229     |         3          |
+|    76892    |       True       |    54384     |         3          |
+|    76898    |       True       |    54390     |         3          |
+|    76930    |       True       |    54418     |         4          |
+|    77172    |       True       |    54580     |         5          |
+|    77209    |       True       |    54611     |         3          |
+|    77304    |       True       |    54681     |         2          |
+|    77894    |       True       |    55084     |         1          |
+|    78177    |       True       |    55271     |         1          |
+|    78344    |       True       |    55394     |         7          |
+|    78447    |       True       |    55465     |         5          |
+|    78471    |       True       |    55482     |         2          |
+|    78500    |       True       |    55504     |         6          |
+|    78534    |       True       |    55529     |         2          |
+
+We follow up on previous issues and in communication with other validators. We created valid blocks for alll of these slots which we reported here https://github.com/MinaProtocol/mina/issues/9417 we are hoping to bring possible issues if there is. All of this possible thanks to ZKValidator's work.
+There were 73 slots and the producer produced at the canonical height for 69 slots and has a performance score of 94.52%.
