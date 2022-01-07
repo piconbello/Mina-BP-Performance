@@ -25,3 +25,4 @@ After end of the epochs we will update the performance data by running this scri
 |15     |11.54%           |23.27%           |
 |16     |11.73%           |23.28%           |
 |17     |7.73%            |16.70%           |
+|18     |7.10%            |16.67%           |
