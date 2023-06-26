@@ -58,3 +58,7 @@ After end of the epochs we will update the performance data by running this scri
 |48     |10.28%           |20.74%           |
 |49     |11.13%           |22.90%           |
 |50     |10.02%           |19.52%           |
+|51     |10.40%           |21.77%           |
+|52     |8.33%            |16.60%           |
+|53     |11.39%           |22.46%           |
+|54     |10.67%           |22.41%           |
