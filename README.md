@@ -70,3 +70,7 @@ After end of the epochs we will update the performance data by running this scri
 |60     |10.45%           |18.39%           |
 |61     |10.84%           |21.20%           |
 |62     |8.08%            |16.27%           |
+|63     |7.53%            |15.37%           |
+|64     |9.14%            |18.10%           |
+|65     |8.75%            |16.84%           |
+|66     |7.27%            |14.50%           |
